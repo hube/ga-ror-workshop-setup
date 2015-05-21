@@ -10,7 +10,7 @@ Install the following tools:
 2. [Ruby Installer](http://rubyinstaller.org/downloads/) - The Ruby programming
   language interpreter. Download and run the installer for Ruby 2.2.2.
   * When installing Ruby, select the "Add Ruby executables to your PATH" and "Associate .rb and .rbw files with this Ruby installation" options.
-    ![ruby-install.png]
+    ![](ruby-install.png)
 3. [Console](http://sourceforge.net/projects/console/) - A significant
   improvement over Windows' command line (`cmd.exe`).
   * To install, simply unzip the package and place the `Console2` folder in your root directory (`C:`). Place a shortcut to `Console.exe` on the Desktop for convenience.
